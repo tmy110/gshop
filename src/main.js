@@ -26,4 +26,4 @@ new Vue({
   router,//使用vue-router
   store,//使用vuex
 })
-//测试
+//测试2
